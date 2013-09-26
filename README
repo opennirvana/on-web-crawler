@@ -1,0 +1,6 @@
+"On web crawler" is a crawler based on python module beautifulsoup.
+
+On "fish_url" just add your url or domain name which you want to crawl.
+
+At present it crawls the website and through the result of all links on that website
+
